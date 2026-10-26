@@ -2,9 +2,13 @@
 
 Draft of one paper: a frozen warning ratio for cross-semester academic risk prediction, and the timing of the observation window.
 
-The modeling tables are separate, so this manuscript does not carry the data:
+The modeling tables for this draft are:
 
 https://github.com/lyh112358/frozen-warning-ratio-data
+
+Every used table, including the other public sources, is in:
+
+https://github.com/lyh112358/used-datasets
 
 `paper_en.md` is the English draft. `paper_zh.md` is the Chinese draft. Both stop at the references. Notes about wording changes are not part of the draft.
 
